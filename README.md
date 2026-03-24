@@ -1,7 +1,7 @@
 *Análisis de Precios de Coches BMW de Segunda Mano*
-https://img.shields.io/badge/Python-3.8%252B-blue
-https://img.shields.io/badge/Jupyter-Notebook-orange
-https://img.shields.io/badge/Licencia-MIT-green
+| https://img.shields.io/badge/Python-3.8%252B-blue
+| https://img.shields.io/badge/Jupyter-Notebook-orange
+| https://img.shields.io/badge/Licencia-MIT-green
 
 Proyecto completo de ciencia de datos que explora los factores que influyen en el precio de coches BMW usados. El notebook incluye limpieza de datos, imputación inteligente, análisis exploratorio, ingeniería de características y modelado predictivo.
 
@@ -181,7 +181,7 @@ El notebook importa un módulo utils que contiene la función imputar_por_simili
 
 
 
-👤 Autor
+👤 Autor: 
 Christian Méndez Giraldo
 
 
