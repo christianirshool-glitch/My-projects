@@ -51,7 +51,7 @@ Nota: El dataset no se incluye en este repositorio. Debes colocarlo en una carpe
 
 
 
-🔧 # *Flujo de trabajo*
+🔧 *Flujo de trabajo*
 1. Carga e inspección inicial
 · Se carga el CSV y se comprueban dimensiones, valores nulos y tipos de datos.
 · Las columnas de fecha se convierten de float a datetime.
