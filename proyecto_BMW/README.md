@@ -33,6 +33,7 @@ Este proyecto tiene como objetivo entender qué determina el precio de los BMW d
 · Evaluación del modelo mediante validación cruzada.
 
 📁 *Dataset*
+
 El dataset original bmw_pricing_v3.csv contiene alrededor de 5000 registros con las siguientes columnas:
 
 Columna |	Descripción
