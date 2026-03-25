@@ -9,7 +9,9 @@ Este proyecto desarrolla modelos de Machine Learning para clasificar flores iris
 Construir un modelo capaz de predecir con alta precisión la especie de una flor iris y analizar el comportamiento de diferentes enfoques de aprendizaje automático (clasificación y clustering).
 
 📂 *Dataset*
+
 · Dataset clásico Iris
+
 · Variables:
   - Longitud y anchura del sépalo
   - Longitud y anchura del pétalo
