@@ -128,7 +128,7 @@ Nota: El dataset no se incluye en este repositorio. Debes colocarlo en una carpe
 
 
 
-🛠 # *Tecnologías utilizadas*
+🛠 *Tecnologías utilizadas*
 · Python 3.8+
 · Pandas – manipulación de datos
 · NumPy – operaciones numéricas
