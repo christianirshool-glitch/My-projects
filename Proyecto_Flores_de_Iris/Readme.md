@@ -88,3 +88,7 @@ virginica    1.00      1.00      1.00        13
 ·  Numpy
 ·  Scikit-learn
 ·  Matplotlib / seaborn
+
+👤 *Autor:* 
+
+Christian Méndez Giraldo
