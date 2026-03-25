@@ -8,7 +8,7 @@ https://img.shields.io/badge/Licencia-MIT-green
 
 Proyecto completo de ciencia de datos que explora los factores que influyen en el precio de coches BMW usados. El notebook incluye limpieza de datos, imputación inteligente, análisis exploratorio, ingeniería de características y modelado predictivo.
 
-📌 *Índice*
+📌 # *Índice*
 
 · Descripción general
 · Dataset
@@ -20,7 +20,7 @@ Proyecto completo de ciencia de datos que explora los factores que influyen en e
 · Trabajo futuro
 · Autor
 
-📊 *Descripción general*
+📊 # *Descripción general*
 
 Este proyecto tiene como objetivo entender qué determina el precio de los BMW de segunda mano. Utilizando un conjunto de datos con especificaciones técnicas, equipamiento e información de venta, se realizan las siguientes tareas:
 
@@ -32,7 +32,7 @@ Este proyecto tiene como objetivo entender qué determina el precio de los BMW d
 · Entrenamiento de un Random Forest Regressor para predecir el precio.
 · Evaluación del modelo mediante validación cruzada.
 
-📁 *Dataset*
+📁 # *Dataset*
 El dataset original bmw_pricing_v3.csv contiene alrededor de 5000 registros con las siguientes columnas:
 
 Columna |	Descripción
@@ -50,7 +50,7 @@ Nota: El dataset no se incluye en este repositorio. Debes colocarlo en una carpe
 
 
 
-🔧 *Flujo de trabajo*
+🔧 # *Flujo de trabajo*
 1. Carga e inspección inicial
 · Se carga el CSV y se comprueban dimensiones, valores nulos y tipos de datos.
 · Las columnas de fecha se convierten de float a datetime.
@@ -117,7 +117,7 @@ Nota: El dataset no se incluye en este repositorio. Debes colocarlo en una carpe
 
 
 
-📈 *Principales hallazgos*
+📈 # *Principales hallazgos*
 · Modelo es el predictor más fuerte del precio (como era de esperar).
 · Antigüedad y km muestran una correlación negativa con el precio.
 · Potencia tiene correlación positiva con el precio.
@@ -127,7 +127,7 @@ Nota: El dataset no se incluye en este repositorio. Debes colocarlo en una carpe
 
 
 
-🛠 *Tecnologías utilizadas*
+🛠 # *Tecnologías utilizadas*
 · Python 3.8+
 · Pandas – manipulación de datos
 · NumPy – operaciones numéricas
@@ -135,7 +135,7 @@ Nota: El dataset no se incluye en este repositorio. Debes colocarlo en una carpe
 · Scikit‑learn – preprocesamiento, modelado, evaluación
 · Jupyter Notebook – entorno interactivo
 
-🚀 *Instalación y uso*
+🚀 # *Instalación y uso*
 *Requisitos previos*
 · Python 3.8 o superior
 · pip (gestor de paquetes)
@@ -184,9 +184,9 @@ El notebook importa un módulo utils que contiene la función imputar_por_simili
 
 
 
-👤 Autor: 
+👤 # *Autor:* 
 Christian Méndez Giraldo
 
 
-📄 Licencia
+📄 # *Licencia*
 Este proyecto está bajo la licencia MIT – consulta el archivo LICENSE para más detalles.
