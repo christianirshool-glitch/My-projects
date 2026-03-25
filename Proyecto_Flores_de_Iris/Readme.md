@@ -32,6 +32,7 @@ Construir un modelo capaz de predecir con alta precisión la especie de una flor
   - Matriz de confusión
   - Classification report
   - Validación cruzada
+
 🧠 *Resultados*
 
 🔹 Modelo Supervisado (SVM)
@@ -41,7 +42,9 @@ Construir un modelo capaz de predecir con alta precisión la especie de una flor
 Matriz de confusión:
 
 [[19  0  0]
+
  [ 0 13  0]
+ 
  [ 0  0 13]]
 
 Classification report:
@@ -56,10 +59,14 @@ virginica    1.00      1.00      1.00        13
 
 
 🔹 *Modelo No Supervisado (K-Means)*
+
 · Sin escalado:
+
   - ARI: 0.72
   - Silhouette Score: 0.55
+
 · Con escalado:
+
   - ARI: 0.43
   - Silhouette Score: 0.48
 
@@ -67,6 +74,7 @@ virginica    1.00      1.00      1.00        13
 
 
 📊 *Insights clave*
+
 ·  Iris setosa es fácilmente separable del resto debido a sus características de pétalo.
 ·  Existe cierto solapamiento entre versicolor y virginica, lo que supone mayor complejidad.
 ·  Los modelos supervisados (SVM) superan claramente a los no supervisados en este problema.
@@ -74,6 +82,7 @@ virginica    1.00      1.00      1.00        13
 
 
 🛠️ *Tecnologías utilizadas*
+
 ·  Python
 ·  Pandas
 ·  Numpy
